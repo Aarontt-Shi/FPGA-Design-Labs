@@ -1,0 +1,28 @@
+# Quartus build output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.sld
+*.done
+*.sof
+*.pof
+c5_pin_model_dump.txt
+
+# ModelSim artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+wlft*
+modelsim.ini
+
+# OS
+.DS_Store
+Thumbs.db
